@@ -1,3 +1,4 @@
+/*DDL*/
 CREATE DATABASE bd_vsconnect;
 
 USE bd_vsconnect; /*ctrl+enter executa o comando*/
